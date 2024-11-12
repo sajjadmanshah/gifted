@@ -9,7 +9,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Your session id. Must Start with Gifted~",
+      "description": "Gifted~Rn782TYh",
       "required": true
     },
     "MODE": {
@@ -18,19 +18,19 @@
       "value": "public"
     },
     "OWNER_NAME": {
-      "description": "Put Owner Name Here",
+      "description": "Sajjad Mansha",
       "required": true,
-      "value": "Gifted Tech"
+      "value": "Sajjad_MD"
     },
     "OWNER_NUMBER": {
-      "description": "Put Owner Number Here",
+      "description": "923072946127",
       "required": true,
-      "value": "254762016957"
+      "value": "923072946127"
     },
     "SUDO_NUMBERS": {
       "description": "Put Sudo Numbers separated by comma Here. Sudos are limited to owner commands else leave blank",
       "required": false,
-      "value": "254762016957,254728746852,254742063632"
+      "value": "923072946127,254728746852,254742063632"
     },
     "AUTO_READ_STATUS": {
       "description": "Make it true if you want bot to view status else leave blank",
